@@ -17,11 +17,10 @@ The primary goal of this project is to simplify the signup process for the Innov
 To start using the Innovation Lab Signup Process Tracker, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
+
 2. **Set Up Environment**: Set up the necessary environment and dependencies as specified in the repository documentation.
 
-3. **Configure User Types**: Define the different user types (e.g., student, professor, faculty) and configure the system to recognize and classify users accordingly.
-
-4. **Start Tracking Entries**: Begin tracking entries by deploying the system in the Innovation Lab and ensuring that users sign in upon entry. The system will automatically record the date, time, and user type for each entry.
+3. **Start Tracking Entries**: Begin tracking entries by deploying the system in the Innovation Lab and ensuring that users sign in upon entry. The system will automatically record the date, time, and user type for each entry.
 
 5. **Access Logs**: Access and analyze the logs regularly to gain insights into lab usage patterns, identify peak hours, and optimize resource allocation.
 
