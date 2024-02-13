@@ -50,12 +50,11 @@ class ProfessorButton(DataLogger):
 
 @dataclass
 class StudentButton(ProfessorButton):
+    # This class is merely a template and represents the concept of StudentButton class
     button_type: str = "Student"
 
 
 @dataclass
 class VisitorButton(ProfessorButton):
+    # This class is merely a template and represents the concept of StudentButton class
     button_type: str = "Visitor"
-
-
-
