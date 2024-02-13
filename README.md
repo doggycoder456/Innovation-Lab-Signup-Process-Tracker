@@ -41,6 +41,3 @@ If you encounter any issues or have any questions about the project, please don'
 
 This project is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE), which means you are free to use, modify, and distribute the code according to the terms and conditions specified in the license.
 
-## Acknowledgements
-
-We would like to express our appreciation to all contributors and supporters who have contributed to the development and improvement of the Innovation Lab Signup Process Tracker. Your contributions are invaluable in helping us achieve our goals and enhance the functionality of the system.
